@@ -1,2 +1,3 @@
 # sku_counter
-# .exe in dist folder
+# open .exe 
+# disable anti-virus cause it might block it
